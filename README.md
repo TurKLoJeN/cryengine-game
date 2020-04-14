@@ -1,2 +1,2 @@
 # cryengine-game
- Cryengine ile geliştirilmiş bir oyun 
+ Cryengine ile geliştirdiğimiz oyun
