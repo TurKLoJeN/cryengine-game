@@ -1,4 +1,4 @@
-# Cryengine ile geliştirdiğimiz oyun
+# Cryengine ile geliştirdiğim oyun
 
 
 <a href="https://drive.google.com/open?id=1vb8aWjuTw1DRDnXPLJrM9dl4qCIv-tQj">Proje dosyaları ve Oyuna buradan ulaşabilirsiniz</a>
